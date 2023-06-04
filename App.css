@@ -1,0 +1,11 @@
+*{margin:0; padding: 0; box-sizing: border-box;}
+
+.MainDiv {
+    background: url('../Assets/BG.b38aa4c47406efa468c8.webp');
+    background-color: #0f0f1a;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* padding: 10px 0px; */
+    height: 100vh;
+}
+    

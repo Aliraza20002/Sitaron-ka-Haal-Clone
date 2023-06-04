@@ -1,0 +1,113 @@
+.banner{
+    padding: 20px 18px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.bannerheading{
+  
+    color: white;
+    font-size: 50px;
+    font-weight:800;
+    line-height: 67px;
+    text-transform: capitalize;
+}
+
+.bannerheadingspan{
+    color: #fec015;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bannerparagraph {
+    color: #d3d3d3;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 300!important;
+    line-height: 24px;
+    width:330px;
+}
+.inputboxheading{
+    color: #fff;
+    margin-top: 10px;
+    line-height: 8px;
+
+}
+.buttoncontainer{
+    background: #fff;
+    width: 313px;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 12px;
+    align-items: center;
+    border-radius: 10px;
+    width: 71%;
+
+}
+.inputbutton{
+    font-family: Open Sans;
+    font-size: 15px;
+  
+}
+.countrycode{
+    margin-left: 2px;
+}
+.phoneNumber{
+    border: none;
+    margin-left: 4px;
+    outline: none;
+}
+.clickbutton{
+    padding: 6px 17px;
+    background: #a00508;
+   
+    border-radius: 40px;
+    color: white;
+    font-size: 24px;
+    line-height: 21px;
+    border: none;
+  
+}
+.description{
+    color: #d3d3d3;
+    font-family: Open Sans;
+    font-size: 10px;
+    line-height: 16px;
+    padding: -14px
+}
+
+.bannerpicture{
+    padding-top:20px;
+    width: 60%;
+    margin-left: 36px;
+    
+}
+
+.googleplaycontainer{
+    display: flex;
+    align-items: center;
+    margin-top: -6px;
+}
+
+.GoogleplayDescSpan{
+    color: #fec015
+}
+
+.GoogleplayDesc{
+    color: #fff;
+    font-family: Open Sans;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 132%;
+    margin-left: 10px;
+}
+
+.SideImg{
+    width: 100%;
+    height: 100%;
+}
+.BannerFlex{
+    display: flex;
+    column-gap:125px;
+}

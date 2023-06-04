@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.navebar{
+    padding: 12px 12px ;
+
+}
+.imglogo{
+    width:140px ;
+    height: 26px;
+}
+.Logo {
+    font-size: 0px;
+}
+.navebarborderset{
+    border-bottom: 1px solid #fff;
+}
